@@ -1,0 +1,10 @@
+{
+    "base_url": "http://var2.astro.cz/ETD/predictions.php",
+    "planet_base_url": "http://var2.astro.cz/ETD/etd.php",
+    "longitude": 241,
+    "latitude": 37,
+    "min_start_time": "05:16+00:00",
+    "max_end_time": "10:37+00:00",
+    "min_mag_depth": 0.01,
+    "elevation_threshold": 30
+}
